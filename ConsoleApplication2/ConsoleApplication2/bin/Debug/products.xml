@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products Id="1" Price="5423" Name_x0020_of_x0020_product="Divan" Category="Korpusnaya mebel" Description="Good divan" />
+</Products>
